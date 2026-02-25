@@ -16,8 +16,11 @@
 ## Foundational Premise
 
 > Existence demands distinction
+ 
 > Distinction demands contrast
+
 > Contrast demands recursion
+
 > Recursion demands emergence
 
 Thus, reality is not born from static being, but from tension unresolved—
